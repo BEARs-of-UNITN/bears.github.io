@@ -6,21 +6,20 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Projects
+    url: /#projects
     weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: People
+    url: /#people
     weight: 30
-  - name: Changelog
-    url: /changelog/
-    weight: 35
-  - name: Resources
-    weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  - name: Events
+    url: /#events
+ # - name: Resources
+#    weight: 40
+#    hasChildren: true
+#  - parent: Resources
+#    name: Blog
+#    url: blog/
 
 # Footer links (4-column layout)
 #   Top-level items become column headings, children become links.
