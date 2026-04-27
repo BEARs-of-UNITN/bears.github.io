@@ -12,9 +12,6 @@ sections:
         text: Our Research
         url: "#research"
         icon: magnifying-glass
-      secondary_action:
-        text: Publications
-        url: "#publications"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -36,6 +33,7 @@ sections:
       title: About
       text: |
         We are an **interdisciplinary research group** at the University of Trento working on biomedicine, engineering, and AI—developing intelligent systems to understand complex biological processes and improve human health.
+        
         Our goal is to develop computational methods that model disease progression from irregular longitudinal data and support clinically meaningful predictions.
     design:
       columns: "1"

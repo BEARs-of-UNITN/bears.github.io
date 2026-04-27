@@ -14,8 +14,6 @@ sections:
 
             Research leadership in digital health, requirements engineering, and intelligent systems for complex biomedical applications.
 
-            [Read full profile](/authors/paolo-giorgini/)
-
   - block: features
     content:
       title: Researchers
@@ -27,7 +25,6 @@ sections:
 
             Research in AI methods, data-driven healthcare, and interdisciplinary biomedical applications.
 
-            [Read full profile](/authors/selene-tomassini/)
         - name: Marco Robol
           icon: user
           description: |
@@ -35,15 +32,12 @@ sections:
 
             Research in computational methods, intelligent systems, and biomedical data analysis.
 
-            [Read full profile](/authors/marco-robol/)
         - name: Marco Bombieri
           icon: user
           description: |
             **Assistant Professor**
 
             Research in engineering, digital systems, and technologies for real-world biomedical impact.
-
-            [Read full profile](/authors/marco-bombieri/)
 
   - block: features
     content:
@@ -55,6 +49,4 @@ sections:
             **PhD Student**
 
             Multimodal generative modeling of disease progression from irregular longitudinal data for personalized medicine.
-
-            [Read full profile](/authors/letizia-girardi/)
 ---
