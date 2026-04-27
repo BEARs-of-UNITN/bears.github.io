@@ -66,15 +66,38 @@ sections:
           icon: academic-cap
           description: Developing trustworthy methods that connect methodological innovation with medical impact.
 
-  - block: people
-    id: people
-    content:
-      title: Meet the People of BEARLab
-      text: BEARLab brings together researchers working across artificial intelligence, biomedical engineering, digital health, and translational medicine.
-      user_groups:
-        - Faculty
-        - Researchers
-        - PhD Students
+- block: markdown
+  id: people
+  content:
+    title: Meet the People of BEARLab
+    text: |
+      BEARLab brings together researchers working across artificial intelligence, biomedical engineering, digital health, and translational medicine.
+
+      ## Faculty
+
+      **Paolo Giorgini**  
+      *Full Professor*  
+      Research leadership in digital health, requirements engineering, and intelligent systems for complex biomedical applications.
+
+      ## Researchers
+
+      **Selene Tomassini**  
+      *Assistant Professor*  
+      Research in AI methods, data-driven healthcare, and interdisciplinary biomedical applications.
+
+      **Marco Robol**  
+      *Assistant Professor*  
+      Research in computational methods, intelligent systems, and biomedical data analysis.
+
+      **Marco Bombieri**  
+      *Assistant Professor*  
+      Research in engineering, digital systems, and technologies for real-world biomedical impact.
+
+      ## PhD Students
+
+      **Letizia Girardi**  
+      *PhD Student*  
+      Multimodal generative modeling of disease progression from irregular longitudinal data for personalized medicine.
 
   - block: markdown
     id: publications
