@@ -14,6 +14,8 @@ hugoblox:
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
     name: "BEARLab"
+    # Logo image for navbar and footer
+    logo: "media/logo.svg"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
