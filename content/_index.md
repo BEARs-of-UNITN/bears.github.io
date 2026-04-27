@@ -66,40 +66,54 @@ sections:
           icon: academic-cap
           description: Developing trustworthy methods that connect methodological innovation with medical impact.
 
-- block: cta-image-paragraph
-  id: people
-  content:
-    items:
-      - title: Paolo Giorgini
-        text: |
-          **Full Professor**
-          Research leadership in digital health, requirements engineering, and intelligent systems for complex biomedical applications.
-          [Read more](/authors/paolo-giorgini/)
-        image: paolo.jpg
-      - title: Selene Tomassini
-        text: |
-          **Assistant Professor**
-          Research in AI methods, data-driven healthcare, and interdisciplinary biomedical applications.
-          [Read more](/authors/selene-tomassini/)
-        image: selene.jpg
-      - title: Marco Robol
-        text: |
-          **Assistant Professor**
-          Research in computational methods, intelligent systems, and biomedical data analysis.
-          [Read more](/authors/marco-robol/)
-        image: robol.jpg
-      - title: Marco Bombieri
-        text: |
-          **Assistant Professor**
-          Research in engineering, digital systems, and technologies for real-world biomedical impact.
-          [Read more](/authors/marco-bombieri/)
-        image: bombieri.jpg
-      - title: Letizia Girardi
-        text: |
-          **PhD Student**
-          Multimodal generative modeling of disease progression from irregular longitudinal data for personalized medicine.
-          [Read more](/authors/letizia-girardi/)
-        image: letizia.jpg
+  - block: cta-image-paragraph   # ✅ FIXED INDENTATION
+    id: people
+    content:
+      items:
+        - title: Paolo Giorgini
+          text: |
+            **Full Professor**
+
+            Research leadership in digital health, requirements engineering, and intelligent systems for complex biomedical applications.
+
+            [Read more](/authors/paolo-giorgini/)
+          image: paolo.jpg
+
+        - title: Selene Tomassini
+          text: |
+            **Assistant Professor**
+
+            Research in AI methods, data-driven healthcare, and interdisciplinary biomedical applications.
+
+            [Read more](/authors/selene-tomassini/)
+          image: selene.jpg
+
+        - title: Marco Robol
+          text: |
+            **Assistant Professor**
+
+            Research in computational methods, intelligent systems, and biomedical data analysis.
+
+            [Read more](/authors/marco-robol/)
+          image: robol.jpg
+
+        - title: Marco Bombieri
+          text: |
+            **Assistant Professor**
+
+            Research in engineering, digital systems, and technologies for real-world biomedical impact.
+
+            [Read more](/authors/marco-bombieri/)
+          image: bombieri.jpg
+
+        - title: Letizia Girardi
+          text: |
+            **PhD Student**
+
+            Multimodal generative modeling of disease progression from irregular longitudinal data for personalized medicine.
+
+            [Read more](/authors/letizia-girardi/)
+          image: letizia.jpg
 
   - block: markdown
     id: publications
