@@ -3,12 +3,6 @@ title: "People"
 type: landing
 
 sections:
-  - block: markdown
-    content:
-      title: Meet the People of BEARLab
-      text: |
-        BEARLab brings together researchers working across artificial intelligence, biomedical engineering, digital health, and translational medicine.
-
   - block: features
     content:
       title: Faculty
