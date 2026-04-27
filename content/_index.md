@@ -66,16 +66,15 @@ sections:
           icon: academic-cap
           description: Developing trustworthy methods that connect methodological innovation with medical impact.
 
-  - block: markdown
-    id: people
-    content:
-      title: People
-      text: |
-        Meet the team behind our research.
-
-        Team member profiles can be added in the `content/authors/` folder.
-    design:
-      columns: "1"
+  - block: people
+  id: people
+  content:
+    title: Meet the People of BEARLab
+    text: BEARLab brings together researchers working across artificial intelligence, biomedical engineering, digital health, and translational medicine.
+    user_groups:
+      - Faculty
+      - Researchers
+      - PhD Students
 
   - block: markdown
     id: publications
