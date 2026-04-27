@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: BEARs Lab
+      title: Biomedicine, Engineering & AI Research Laboratory
       text: AI for medicine, neurological disorders, and personalized disease progression modeling.
       primary_action:
         text: Our Research
@@ -15,11 +15,6 @@ sections:
       secondary_action:
         text: Publications
         url: "#publications"
-      announcement:
-        text: "Research at the intersection of AI and medicine."
-        link:
-          text: "Contact us"
-          url: "#contact"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -40,7 +35,7 @@ sections:
     content:
       title: About
       text: |
-        We are a research lab working on artificial intelligence for healthcare, with a focus on neurological disorders, multimodal generative modeling, and personalized medicine.
+        We are an interdisciplinary research group at the University of Trento working on biomedicine, engineering, and AI—developing intelligent systems to understand complex biological processes and improve human health.
 
         Our goal is to develop computational methods that model disease progression from irregular longitudinal data and support clinically meaningful predictions.
     design:
@@ -110,11 +105,6 @@ sections:
       title: Contact
       text: |
         Get in touch to discuss collaborations, student opportunities, or ongoing projects.
-
-        Email: your.email@unitn.it
-      button:
-        text: Email Us
-        url: "mailto:your.email@unitn.it"
     design:
       card:
         css_class: "bg-primary-300"
