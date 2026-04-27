@@ -66,38 +66,40 @@ sections:
           icon: academic-cap
           description: Developing trustworthy methods that connect methodological innovation with medical impact.
 
-- block: markdown
-  id: people
-  content:
-    title: Meet the People of BEARLab
-    text: |
-      BEARLab brings together researchers working across artificial intelligence, biomedical engineering, digital health, and translational medicine.
+  - block: markdown
+    id: people
+    content:
+      title: Meet the People of BEARLab
+      text: |
+        BEARLab brings together researchers working across artificial intelligence, biomedical engineering, digital health, and translational medicine.
 
-      ## Faculty
+        ## Faculty
 
-      **Paolo Giorgini**  
-      *Full Professor*  
-      Research leadership in digital health, requirements engineering, and intelligent systems for complex biomedical applications.
+        **Paolo Giorgini**  
+        *Full Professor*  
+        Research leadership in digital health, requirements engineering, and intelligent systems for complex biomedical applications.
 
-      ## Researchers
+        ## Researchers
 
-      **Selene Tomassini**  
-      *Assistant Professor*  
-      Research in AI methods, data-driven healthcare, and interdisciplinary biomedical applications.
+        **Selene Tomassini**  
+        *Assistant Professor*  
+        Research in AI methods, data-driven healthcare, and interdisciplinary biomedical applications.
 
-      **Marco Robol**  
-      *Assistant Professor*  
-      Research in computational methods, intelligent systems, and biomedical data analysis.
+        **Marco Robol**  
+        *Assistant Professor*  
+        Research in computational methods, intelligent systems, and biomedical data analysis.
 
-      **Marco Bombieri**  
-      *Assistant Professor*  
-      Research in engineering, digital systems, and technologies for real-world biomedical impact.
+        **Marco Bombieri**  
+        *Assistant Professor*  
+        Research in engineering, digital systems, and technologies for real-world biomedical impact.
 
-      ## PhD Students
+        ## PhD Students
 
-      **Letizia Girardi**  
-      *PhD Student*  
-      Multimodal generative modeling of disease progression from irregular longitudinal data for personalized medicine.
+        **Letizia Girardi**  
+        *PhD Student*  
+        Multimodal generative modeling of disease progression from irregular longitudinal data for personalized medicine.
+    design:
+      columns: "1"
 
   - block: markdown
     id: publications
