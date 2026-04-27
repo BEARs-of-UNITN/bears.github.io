@@ -35,8 +35,7 @@ sections:
     content:
       title: About
       text: |
-        We are an interdisciplinary research group at the University of Trento working on biomedicine, engineering, and AI—developing intelligent systems to understand complex biological processes and improve human health.
-
+        We are an **interdisciplinary research group** at the University of Trento working on biomedicine, engineering, and AI—developing intelligent systems to understand complex biological processes and improve human health.
         Our goal is to develop computational methods that model disease progression from irregular longitudinal data and support clinically meaningful predictions.
     design:
       columns: "1"
@@ -65,56 +64,7 @@ sections:
         - name: Clinical AI
           icon: academic-cap
           description: Developing trustworthy methods that connect methodological innovation with medical impact.
-
-  - block: cta-image-paragraph   # ✅ FIXED INDENTATION
-    id: people
-    content:
-      items:
-        - title: Paolo Giorgini
-          text: |
-            **Full Professor**
-
-            Research leadership in digital health, requirements engineering, and intelligent systems for complex biomedical applications.
-
-            [Read more](/authors/paolo-giorgini/)
-          image: paolo.jpg
-
-        - title: Selene Tomassini
-          text: |
-            **Assistant Professor**
-
-            Research in AI methods, data-driven healthcare, and interdisciplinary biomedical applications.
-
-            [Read more](/authors/selene-tomassini/)
-          image: selene.jpg
-
-        - title: Marco Robol
-          text: |
-            **Assistant Professor**
-
-            Research in computational methods, intelligent systems, and biomedical data analysis.
-
-            [Read more](/authors/marco-robol/)
-          image: robol.jpg
-
-        - title: Marco Bombieri
-          text: |
-            **Assistant Professor**
-
-            Research in engineering, digital systems, and technologies for real-world biomedical impact.
-
-            [Read more](/authors/marco-bombieri/)
-          image: bombieri.jpg
-
-        - title: Letizia Girardi
-          text: |
-            **PhD Student**
-
-            Multimodal generative modeling of disease progression from irregular longitudinal data for personalized medicine.
-
-            [Read more](/authors/letizia-girardi/)
-          image: letizia.jpg
-
+    
   - block: markdown
     id: publications
     content:
@@ -136,15 +86,4 @@ sections:
         Please get in touch if you are interested in PhD opportunities, research visits, or collaborations.
     design:
       columns: "1"
-
-  - block: cta-card
-    id: contact
-    content:
-      title: Contact
-      text: |
-        Get in touch to discuss collaborations, student opportunities, or ongoing projects.
-    design:
-      card:
-        css_class: "bg-primary-300"
-        css_style: ""
 ---
