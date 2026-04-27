@@ -5,7 +5,8 @@
 
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
-baseURL: 'https://bears.github.io/'
+baseURL: 'https://bears-of-unitn.github.io/'
+
 ############################
 ## PAGE OPTIONS
 ############################
