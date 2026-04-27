@@ -67,14 +67,14 @@ sections:
           description: Developing trustworthy methods that connect methodological innovation with medical impact.
 
   - block: people
-  id: people
-  content:
-    title: Meet the People of BEARLab
-    text: BEARLab brings together researchers working across artificial intelligence, biomedical engineering, digital health, and translational medicine.
-    user_groups:
-      - Faculty
-      - Researchers
-      - PhD Students
+    id: people
+    content:
+      title: Meet the People of BEARLab
+      text: BEARLab brings together researchers working across artificial intelligence, biomedical engineering, digital health, and translational medicine.
+      user_groups:
+        - Faculty
+        - Researchers
+        - PhD Students
 
   - block: markdown
     id: publications
