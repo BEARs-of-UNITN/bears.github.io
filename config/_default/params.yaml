@@ -13,15 +13,15 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Company Name"
+    name: "BEARLab"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: organization                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "The framework for Hugo."
+    tagline: "Biomedicine, Engineering & AI Research Laboratory"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    description: "An interdisciplinary research group at the University of Trento working on biomedicine, engineering, and AI—developing intelligent systems to understand complex biological processes and improve human health."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "MakeOwnable"              # Twitter/X handle for Twitter Cards (without @)
@@ -125,9 +125,9 @@ hugoblox:
     show_tagline: true
     # Override footer title (defaults to identity.name)
     title: ""
-    language_switcher: true
+    language_switcher: false
     # Show social icons from identity.social.links
-    show_social: true
+    show_social: false
     # Custom footer text (HTML supported)
     text: ""
 
