@@ -12,8 +12,10 @@ main:
   - name: People
     url: /people/
     weight: 30
-  - name: Events
-    url: /events/
+  # - name: Events
+  #   url: /events/
+  - name: Publications
+    url: /publications/
 #  - name: Resources
 #    weight: 40
 #    hasChildren: true
