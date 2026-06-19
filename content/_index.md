@@ -2,6 +2,8 @@
 title: 'Home'
 date: 2023-10-24
 type: landing
+appearance:
+  logo: logo.png
 
 sections:
   - block: hero
