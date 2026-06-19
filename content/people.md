@@ -9,8 +9,8 @@ sections:
       items:
         - name: Paolo Giorgini
           image:
-            filename: authors/paolo-giorgini/avatar.jpg
-          url: authors/paolo-giorgini/
+            filename: /authors/paolo-giorgini/avatar.jpg
+          url: /authors/paolo-giorgini/
           description: |
             **Full Professor**
 
@@ -22,8 +22,8 @@ sections:
       items:
         - name: Selene Tomassini
           image:
-            filename: authors/selene-tomassini/avatar.jpg
-          url: authors/selene-tomassini/
+            filename: /authors/selene-tomassini/avatar.jpg
+          url: /authors/selene-tomassini/
           description: |
             **Assistant Professor**
 
@@ -31,8 +31,8 @@ sections:
 
         - name: Marco Robol
           image:
-            filename: authors/marco-robol/avatar.jpg
-          url: authors/marco-robol/
+            filename: /authors/marco-robol/avatar.jpg
+          url: /authors/marco-robol/
           description: |
             **Assistant Professor**
 
@@ -40,8 +40,8 @@ sections:
 
         - name: Marco Bombieri
           image:
-            filename: authors/marco-bombieri/avatar.jpg
-          url: authors/marco-bombieri/
+            filename: /authors/marco-bombieri/avatar.jpg
+          url: /authors/marco-bombieri/
           description: |
             **Assistant Professor**
 
@@ -53,8 +53,8 @@ sections:
       items:
         - name: Letizia Girardi
           image:
-            filename: authors/letizia-girardi/avatar.jpg
-          url: authors/letizia-girardi/
+            filename: /authors/letizia-girardi/avatar.jpg
+          url: /authors/letizia-girardi/
           description: |
             **PhD Student**
 
