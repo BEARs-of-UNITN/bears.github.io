@@ -2,6 +2,8 @@
 title: Paolo Giorgini
 role: Full Professor
 bio: Research leadership in digital health, requirements engineering, and intelligent systems for complex biomedical applications.
+avatar:
+  filename: assets/media/authors/paolo_giorgini.JPG
 ---
 
 ## Research
