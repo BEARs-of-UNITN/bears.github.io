@@ -5,7 +5,7 @@ user_groups:
   - PhD Students
 bio: Multimodal generative modeling of disease progression from irregular longitudinal data for personalized medicine.
 avatar:
-  filename: assets/media/authors/letizia_girardi.JPG
+  filename: authors/letizia-girardi/avatar.jpg
 ---
 Letizia Girardi is a PhD Student in Information and Communications Engineering at the University of Trento. Her research focuses on artificial intelligence for medicine, with particular emphasis on disease progression modeling, generative AI, and personalized medicine.
 

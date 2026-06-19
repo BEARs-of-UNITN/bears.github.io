@@ -5,7 +5,7 @@ user_groups:
   - Faculty
 bio: Research leadership in digital health, requirements engineering, and intelligent systems for complex biomedical applications.
 avatar:
-  filename: assets/media/authors/paolo_giorgini.JPG
+  filename: authors/paolo-giorgini/avatar.jpg
 ---
 
 ## Research

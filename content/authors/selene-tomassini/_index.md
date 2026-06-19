@@ -5,5 +5,5 @@ user_groups:
   - Researchers
 bio: Research in AI methods, data-driven healthcare, and interdisciplinary biomedical applications.
 avatar:
-  filename: assets/media/authors/selene_tomassini.JPG
+  filename: authors/selene-tomassini/avatar.jpg
 ---
